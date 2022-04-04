@@ -4,6 +4,10 @@ API to send and parse json file using a modular approach. Follows SOLID principl
 
 ## Setup
 Clone the repo
-Run npm install
+Run `npm install`
 
 ## Endpoints
+1. POST: `/api/v1/accounting`
+    * Body:form-data
+        * file: sample.json
+2. GET: `/api/v1/accounting`
