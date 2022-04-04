@@ -3,8 +3,8 @@
 API to send and parse json file using a modular approach. Follows SOLID principles
 
 ## Setup
-Clone the repo
-Run `npm install`
+1. Clone the repo
+2. Run `npm install`
 
 ## Endpoints
 1. POST: `/api/v1/accounting`
